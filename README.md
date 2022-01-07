@@ -21,7 +21,7 @@
 ## How to install
 
 ```bash
-pip install git+https://github.com/SKT-AI/KoBART#egg=kobart
+pip install git+https://github.com/kanggo-sw/KoBART#egg=kobart
 ```
 
 ## Data
